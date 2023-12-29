@@ -1,10 +1,11 @@
 # Certifications
 
- A platform where I park my bragging rights, safely stored for future reference and spontaneous show-and-tell sessions. Welcome to the station where my certificates catch the spotlight 
+Welcome to the hub where I securely store my accomplishments, ready for future reference and impromptu showcases. Step into the spotlight, where my certificates steal the show.
+
 ## Completed Courses
 
-| Certificate Name                                                            | Issuing Organization     | Date Issued         | Expiry date  | Credential URL                                                                                                                                                        | 
-| --------------------------------------------------------------------------- | ------------------------ | ------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |                                        
+| Certificate Name                                                            | Issuing Organization     | Date Issued          | Expiry date | Credential URL                                                                                                                                                                                                            | 
+| --------------------------------------------------------------------------- | ------------------------ | -------------------  | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |                                        
 | Foundations of Inference in Python                                          | DataCamp                 | December 14, 2023    | NA          | [Link](https://www.datacamp.com/statement-of-accomplishment/course/adb64502b89d9321a1f6d10e694ea90a415511d6?raw=1)                                                                                 |  
 | Hypothesis Testing in Python                                                | DataCamp                 | October 30, 2023     | NA          | [Link](https://www.datacamp.com/statement-of-accomplishment/course/cc14d04cb1caae078384272a4973a8e4f19cfe65?raw=1)                                                                                 |  
 | Statistical Thinking in Python (Part 2)                                     | DataCamp                 | October 28, 2023     | NA          | [Link](https://www.datacamp.com/statement-of-accomplishment/course/1d174989a1460109a7f60b647c873c22657520a4?raw=1)                                                                                 |  
